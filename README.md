@@ -42,9 +42,9 @@ cd zingen-landing-page
 
 ---
 
-🌐 Deploy
+## 🌐 Deploy
 Visualize o projeto aqui:
-🏠 Deploy acesse o link ()
+🏠 Deploy acesse o link (https://joyce-gomes.github.io/Zingen/)
 
 
 ## 🧠 Aprendizados
@@ -54,7 +54,7 @@ Visualize o projeto aqui:
 - Uso de SVGs para ícones vetoriais
 - Estrutura semântica e clean do HTML
 
-## 👨‍💻 Autora
+## 👩‍💻 Autora
 
 - Desenvolvido por Joyce Gomes Santos
 
